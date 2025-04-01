@@ -10,3 +10,5 @@ the app is able to give you meal suggestions when you input the time of day, mor
 ## How to Interact with the app?
 
 click on what time of day, text and then input the time od day,  e.g morning, afternoon and dinner 
+
+https://github.com/VCCT-IMAD5112-2025-G1/Assignment1
