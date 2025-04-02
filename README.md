@@ -3,6 +3,13 @@
 A brief description of what this project does and who it's for
 
 devoloping an android app that provides meal suggestions based on the time of day. This project is for a friend named hera who struggles on what to eat on busy days 
+## Purpose 
+to help users decide what to eat on busy days 
+
+## installation instructions
+
+ go to your google play store and search meal suggestion app
+
 
 ## features 
 
